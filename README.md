@@ -1,7 +1,10 @@
-### Hi there 👋
+### 来自一名深圳打工者，很高兴成为其中的一员
+
 
 <!--
-**TiZing/TiZing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-我是一名新手，正在练习如何使用github
-很高兴成为其中的一员
+1、我是一名新手，正在练习如何使用github
+2、
+
+--!>
+
 
